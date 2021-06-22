@@ -8,7 +8,7 @@
 - New images are loaded each time a user scrolls to the end of the screen.
 - While website is loading, there's a spinner animation to provide the context of the process.
 
-### How does Infinite scroll logic work?
+### How does the Infinite scroll logic work?
 
 <img src="Infinite+Scroll+Functionality.png" alt="Infinite scroll logic" />
 
