@@ -12,7 +12,7 @@
 
 <img src="Infinite+Scroll+Functionality.png" alt="Infinite scroll logic" />
 
-### Screenshot
+### Screenshots
 
 <img src="Screenshot 1.png" alt="Screenshot 1" />
 <br />
