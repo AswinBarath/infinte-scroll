@@ -1,5 +1,7 @@
 # Infinite Scroll
 
+
+
 ## What's unique in this Project
 - Infinite Scroll is built with Vanilla JavaScript (Only built using HTML, CSS and JavaScript without using any front-end frameworks).
 - Infinite Scroll is a web application that showcases the scroll feature available on almost all social media platforms.
@@ -10,12 +12,12 @@
 
 ### How does the Infinite scroll logic work?
 
-<img src="Infinite+Scroll+Functionality.png" alt="Infinite scroll logic" />
+<img src="assets/Infinite Scroll Functionality.png" alt="Infinite scroll logic" />
 
 ### Screenshots
 
-<img src="Screenshot 1.png" alt="Screenshot 1" />
+<img src="assets/Screenshot 1.png" alt="Screenshot 1" />
 <br />
-<img src="Screenshot 2.png" alt="Screenshot 2" />
+<img src="assets/Screenshot 2.png" alt="Screenshot 2" />
 <br />
-<img src="Screenshot 3.png" alt="Screenshot 3" />
+<img src="assets/Screenshot 3.png" alt="Screenshot 3" />
